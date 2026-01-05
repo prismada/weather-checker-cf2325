@@ -1,0 +1,8 @@
+{
+  "name": "Weather Checker",
+  "tagline": "Get current weather conditions for any location",
+  "example": "What's the weather like in San Francisco?",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Weather Checker is working..."
+}
